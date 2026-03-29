@@ -1,9 +1,6 @@
 # Database (contains private keys)
 totally_not_my_privateKeys.db
 
-# Gradebot binaries
-gradebot
-gradebot.exe
 
 # Coverage
 .coverage
