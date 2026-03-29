@@ -1,0 +1,18 @@
+# Database (contains private keys)
+totally_not_my_privateKeys.db
+
+# Gradebot binaries
+gradebot
+gradebot.exe
+
+# Coverage
+.coverage
+htmlcov/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# macOS
+.DS_Store
